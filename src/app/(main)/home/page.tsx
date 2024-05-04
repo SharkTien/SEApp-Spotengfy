@@ -1,4 +1,4 @@
-import BannerImage from "../../banner.png";
+import BannerImage from "../banner.png";
 
 const HomeTab = () => {
     return (
